@@ -1,0 +1,13 @@
+{
+    "programSettings" : {
+        "input" : "/dev/video0",
+        "watermark" : {
+            "enabled" : true,
+            "fullFileName" : "/home/roman/all/projects/portfolio_for_upwork/test/main/FFmpeg/cpp_ffvideo_streamer/watermarks/watermark.png"
+        },
+        "output" : "rtmp://client133533:4bb82a27@0359bb9da3e7.entrypoint.cloud.wowza.com:1935/app-r829c0zt/SlVHYm8r"
+    },
+    "ffmpegSettings" : {
+        "logLevel" : "trace"
+    }
+}
