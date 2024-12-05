@@ -1,0 +1,14 @@
+.gitignore
+.vscode/
+build/
+include/frozen/
+include/libavcodec/
+include/libavdevice/
+include/libavfilter/
+include/libavformat/
+include/libavutil/
+include/libpostproc/
+include/libswresample/
+include/libswscale/
+include/rapidjson/
+libraries/
